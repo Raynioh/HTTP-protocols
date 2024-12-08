@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image-container {
+    gap: 10px;
+    margin: 20px;
+}
+
+.image-container img {
+    object-fit: cover;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
